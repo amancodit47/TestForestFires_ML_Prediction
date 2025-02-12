@@ -177,7 +177,3 @@ The best-performing model is **Ridge Regression model**, achieving the following
 
 ## Acknowledgements
 We thank the creators of the Algerian forest fire dataset for their valuable contribution to environmental and disaster management research.
-
-**Author**: Ktrimalrao  
-**GitHub**: [https://github.com/Ktrimalrao](https://github.com/Ktrimalrao)
-**LinkdIn**: [LinkdIN](https://www.linkedin.com/in/k-trimal-rao-397924253/)
